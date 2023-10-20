@@ -6,7 +6,7 @@ My motivation for this project was to utilize my knowledge of semantic HTML and 
 
 ## Screenshot
 
-![ScreenShot](/horiseon-marketing-site/assets/images/Screenshot%202023-10-20%20200239.png)
+![ScreenShot](/horiseon-marketing-site/assets/images/screenshot.png)
 
 ## Installation
 
