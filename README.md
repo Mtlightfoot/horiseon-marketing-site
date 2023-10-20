@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation for this project was to utilize my knowledge of semantic HTML and CSS to improve the codebase for long-term sustainability. I built this project to show what the company Horiseon can do to help with your online marketing. This solves a problem with having a website that has bad SEO and low visibility online. Throughout this project I learnt how to make a website more accessible by making sure the alt attributes were filled in on all images and icons, making sure all links were working correctly on the webpage, keeping heading attributes in sequential order, giving the webpage a descriptive title and utilizing semantic HTML elements throughout the source code.
+My motivation for this project was to utilize my knowledge of semantic HTML and CSS to improve the codebase for long-term sustainability. I built this project to show what the company Horiseon can do to help with your online marketing. This solves a problem with having a website that has bad SEO and low visibility online. Throughout this project I learnt how to make a website more accessible by making sure the alt attributes were filled in on all images and icons, making sure all links were working correctly on the webpage, keeping heading attributes in sequential order, giving the webpage a descriptive title and utilizing semantic HTML elements throughout the source code. I have also learnt through this project how to correctly add a screenshot in my README file and how to get it to correctly show in GitHub.
 
 ## Screenshot
 
